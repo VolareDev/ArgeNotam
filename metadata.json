@@ -1,0 +1,7 @@
+{
+  "name": "ArgenNOTAM - Argentina International NOTAM Tracker",
+  "description": "A real-time NOTAM visualization and search tool for Argentina's international airports, featuring live data fetching via Gemini Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
